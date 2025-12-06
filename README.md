@@ -9,6 +9,7 @@ This repo documents my progress through Bandit, a wargame designed to teach Linu
 ## 🎯 Progress
 
 **Completed:** Levels 0-20
+
 ## 🛠️ Skills Practiced
 
 - **Linux Fundamentals:** File navigation, permissions, hidden files
@@ -25,7 +26,8 @@ This repo documents my progress through Bandit, a wargame designed to teach Linu
 overthewire-bandit/
 ├── README.md                    # This file
 ├── levels/
-│   └── level0-5.md             # Detailed walkthroughs for levels 0-5
+│   ├── level0-5.md             # Detailed walkthroughs for levels 0-5
+│   └── level5-20.md            # Detailed walkthroughs for levels 5-20
 └── notes/
     └── commands-reference.md    # Quick reference of useful commands
 ```
@@ -44,4 +46,9 @@ Through these challenges, I've developed:
 
 - [OverTheWire Bandit Homepage](https://overthewire.org/wargames/bandit/)
 
- 
+
+
+
+
+
+
